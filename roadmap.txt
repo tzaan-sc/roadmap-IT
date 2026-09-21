@@ -1,0 +1,32 @@
+LEVEL 0
+Máy tính & công cụ
+        ↓
+LEVEL 1
+Programming Fundamentals
+        ↓
+LEVEL 2
+Git + Linux + Database
+        ↓
+LEVEL 3
+Web / Application Development
+        ↓
+LEVEL 4
+Backend / Frontend / Mobile
+        ↓
+LEVEL 5
+Software Engineering
+        ↓
+LEVEL 6
+DevOps + Cloud
+        ↓
+LEVEL 7
+System Design + Distributed Systems
+        ↓
+LEVEL 8
+Security
+        ↓
+LEVEL 9
+AI / Data / Machine Learning
+        ↓
+LEVEL 10
+Advanced Architecture / AI Engineering
